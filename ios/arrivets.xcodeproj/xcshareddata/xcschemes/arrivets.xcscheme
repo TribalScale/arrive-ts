@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "arrivets.app"
-               BlueprintName = "arrivets"
-               ReferencedContainer = "container:arrivets.xcodeproj">
+               BuildableName = "ArriveTS.app"
+               BlueprintName = "ArriveTS"
+               ReferencedContainer = "container:ArriveTS.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "arrivetsTests.xctest"
-               BlueprintName = "arrivetsTests"
-               ReferencedContainer = "container:arrivets.xcodeproj">
+               BuildableName = "ArriveTSTests.xctest"
+               BlueprintName = "ArriveTSTests"
+               ReferencedContainer = "container:ArriveTS.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "arrivets.app"
-            BlueprintName = "arrivets"
-            ReferencedContainer = "container:arrivets.xcodeproj">
+            BuildableName = "ArriveTS.app"
+            BlueprintName = "ArriveTS"
+            ReferencedContainer = "container:ArriveTS.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "arrivets.app"
-            BlueprintName = "arrivets"
-            ReferencedContainer = "container:arrivets.xcodeproj">
+            BuildableName = "ArriveTS.app"
+            BlueprintName = "ArriveTS"
+            ReferencedContainer = "container:ArriveTS.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
