@@ -38,7 +38,23 @@ TribalScale wrapped up its hackathon on Oct. 10, 2022. After two days of work, t
 What’s available today: 
 
 - Here's a quick [video preview](https://www.globenewswire.com/Tracker?data=eu-OMf2qSxZcx7qaZtrFuD3orF9Ipd3fNdw7Oif1jBZUO6Wz4HhwDVpI0d2YpFbPVgNgbT2-Qszgna9v-OxJ_9d1dhPDruC11Ep5RpWUxhI=) of what has been built so far
-- Open source code required to build the ArriveTS app 
+- Open source code required to build the ArriveTS app
+
+### The Takeaways
+
+$54 million dollars on an app makes for a flashy headline. But at the end of the day, when it comes to building products, it’s important to focus on the challenges and solutions, rather than finger pointing and laying blame. 
+
+TribalScale has spent the last 6 years working with enterprise organizations to help them build digital products, including software for banking, insurance, healthcare, and automotive industries in both Canada and the USA. So we understand that there’s always more than meets the eye when it comes to building digital products, particularly when you’re connecting it with legacy technology systems and working with a wide variety of stakeholders. 
+
+Building software is hard. Building software in a legacy organization is even harder. That challenge is exactly what motivates the team at TribalScale, through our mission to Right the Future. With access to the right information and Agile processes, public service teams across Canada can find capital efficiency and productivity, while also building products that better serve the needs of the Canadian public.
+
+Rebuilding one piece of the ArriveCan app is not something our team did to mock the government. Rather, it was a passion project by our team, whose curiosity drove them to ask “Well, what would it actually take to get this done? And where are the faults in current digitization efforts?”
+
+### What's Next
+
+This week TribalScale has announced the formation of The Canadian Technology Consortium. We’re inviting tech leaders from across the country to contribute their expertise, with the stated goal of providing a free resource to our colleagues in the public sector. Building software is hard, but we believe that experts in this country can work together to make it just a bit easier for the hardworking people whose day to day work involves making life easier for Canadians. 
+
+Anyone interested in learning more is [encouraged to RSVP](https://mw7r0bynvzv.typeform.com/to/pPOeZukF) to our first meeting, on Friday, Oct 14th at 7:45am EST. It’s been an interesting week and, with the responses we’ve been hearing, we continue to be excited and optimistic about the future.
 
 ## Prerequisites
 
