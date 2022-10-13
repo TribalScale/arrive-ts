@@ -52,7 +52,7 @@ Rebuilding one piece of the ArriveCan app is not something our team did to mock 
 
 ### What's Next
 
-This week TribalScale has announced the formation of The Canadian Technology Consortium. We’re inviting tech leaders from across the country to contribute their expertise, with the stated goal of providing a free resource to our colleagues in the public sector. Building software is hard, but we believe that experts in this country can work together to make it just a bit easier for the hardworking people whose day to day work involves making life easier for Canadians. 
+This week TribalScale has announced the formation of The Canadian Technology Consortium. We’re inviting tech leaders from across the country to contribute their expertise, with the stated goal of providing a free resource to our colleagues in the public sector. Building software is challenging, but we believe that experts in this country can come together to make it just a bit simpler for the hardworking people whose day to day work involves making life easier for Canadians.
 
 Anyone interested in learning more is [encouraged to RSVP](https://mw7r0bynvzv.typeform.com/to/pPOeZukF) to our first meeting, on Friday, Oct 14th at 7:45am EST. It’s been an interesting week and, with the responses we’ve been hearing, we continue to be excited and optimistic about the future.
 
