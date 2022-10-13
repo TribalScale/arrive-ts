@@ -63,6 +63,8 @@ buck-out/
 /ios/Pods/
 /vendor/bundle/
 
+amplify
+node_modules/
 aws-exports.js
 
-/amplify
+.vscode
